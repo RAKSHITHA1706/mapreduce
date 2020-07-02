@@ -5,3 +5,4 @@ StudentsData MapReduce program to find total number of students scored >60 in su
 2. Creating .java file with Mapper,Reducer and Driver Code
 3.Building Path and Exporting JAR file
 4.Creating Input file in HadoopFileSystem and storing the output to Output File
+![](https://github.com/RAKSHITHA1706/mapreduce/blob/master/BrowserOutput.png)
